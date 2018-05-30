@@ -1,4 +1,15 @@
+/**** COLOR ****/
+:root {
+  --color-primary: #FC3960;
+  --color-secondary: #FC9388;
+
+  --color-white: #fff;
+}
+
+$default-font-size: 1.6rem;
+
+
 #react-container {
     display:flex;
     justify-content: center;
-  }
+}
